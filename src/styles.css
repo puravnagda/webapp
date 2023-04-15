@@ -7,7 +7,7 @@
   }
   
   body {
-    background-image: url('C:\Users\purav\Documents\Wealthians Finserv\webapp\web-app\src\assets\background-image.jpeg');
+    background-image: url('assets/background-image.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
