@@ -1,0 +1,21 @@
+.gradient-text {
+    background-image: linear-gradient(to right, #bd7aff, #6c30d6);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  
+  body {
+    background-image: url('C:\Users\purav\Documents\Wealthians Finserv\webapp\web-app\src\assets\background-image.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+
+
+  
+  
+  
